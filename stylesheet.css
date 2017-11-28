@@ -1,5 +1,8 @@
 .background_blue {
   background-image: url("https://i.ytimg.com/vi/pbmoEk1PASE/maxresdefault.jpg");
+}
+.background_puppy {
+ background-image: url("http://eskipaper.com/images/cute-animal-2.jpg"); 
 }  
 ul {
     list-style-type: none;
